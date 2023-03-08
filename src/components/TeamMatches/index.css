@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+.rcb-bg-col {
+  background-color: #a4261d;
+}
+.bg-container {
+  min-height: 100vh;
+  background-size: cover;
+}
